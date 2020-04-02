@@ -86,6 +86,33 @@ The positive forecast models under scenario 2, also translate to hospitalisation
 
 ## Scenario 3
 
+Applying patterns from other countries to NZ relies on my assumptions holding, which is unlikely. As of writing, NZ appears to be on its own trajectory on new daily infection rates, rates of hospitalisation as well as ICU needs. What is more, NZ has up to this point experienced relatively low death rates attributed to COVID-19.
+
+This final scenario considers only NZ trends, and applies them to the next four weeks. The next sets of models will daily update the 7 day rolling mean and project this four weeks ahead. The assumptions are that the conditions over any previous week will be the same in the subsequent four weeks. These assumptions will not hold for all important factors that influence infection, hospitalisation, ICU and death rates; however, these models will most likely match more underlying assumptions and have less bias than the models from the previous two simulated scenarios which involve different countries.
+
+The graph below shows the forecasted new daily confirmed COVID-19 cases. The models still predict a very high number of daily cases that accelerate by week four; however, as more data comes in over the next couple of weeks which shows the effects of the national shutdown, these overall numbers will attenuate and correct over time.
+
+![COVID19](https://gdp-live.s3-ap-southeast-2.amazonaws.com/covid19/Current+and+Predicted+New+Confirmed+COVID-19+Cases+in+NZ+-+scenario+3+02-04-2020.jpg)
+
+The number in the previous graph translate to total expected COVID-19 cases across NZ. As in the previous graph, this figure will also adjust over the coming days to the new infection rate data which captures the effects of social isolation currently in force in NZ.
+
+![COVID19](https://gdp-live.s3-ap-southeast-2.amazonaws.com/covid19/Current+and+Predicted+Total+Confirmed+COVID-19+Cases+in+NZ+-+scenario+3+02-04-2020.jpg)
+
+The most optimistic forecasts are captures in the following two graphs. Other countries have reported hospitalisation rates that are ~10% of confirmed cases, ICU rates that are ~25% of those who are hospitalised. While NZ is still at relatively early stages of the outbreak, these rates have not held up to the local context. The hospitalisation rate for NZ has been ~2% and this has translated also to very low overall number of patients requiring ICU care. The figure below highlights the trends up to today, as well as forecasts over the next month. If the hospitalisation rates continue to hold, then the health system as well as the NZ UCU capacity is well placed to manage the potential demand in the near future.
+
+![COVID19](https://gdp-live.s3-ap-southeast-2.amazonaws.com/covid19/Hospitalisations+and+ICU+Requirements+Due+to+COVID-19+-+scenario+3+02-04-2020.jpg)
+
+## Estimating Fatality Rates
+
+Ascertaining the exact fatality rates caused by COVID-19 is difficult. There is a great deal of conflicting information from various countries and therefore, it is probably unreliable to apply fatality rates from other countries to NZ. Italy is currently fatality rates of ~9.9%, meanwhile, in stark contrast, Germany is reporting ~0.5%. These are considerable differences and other countries are reporting numbers that are somewhere in between: Spain ~7.1%, Switzerland ~1.3% and US ~1.3%.
+
+
+As of writing, NZ has had approximately 800 cases and one death due to COVID-19. This thankfully represents a very low fatality rate of ~0.13%, but unfortunately a rate which is likely to increase with time. The graph below represents a scenario of what would happen to the death rate over the next four weeks if the average death rate over the previous seven days holds.
+
+
+![COVID19](https://gdp-live.s3-ap-southeast-2.amazonaws.com/covid19/Current+and+Predicted+Deaths+Due+to+COVID19+in+NZ+-+scenario+3+02-04-2020.jpg)
+
+
 
 
 ## Economic Impacts
