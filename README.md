@@ -113,10 +113,13 @@ As of writing, NZ has had approximately 800 cases and one death due to COVID-19.
 ![COVID19](https://gdp-live.s3-ap-southeast-2.amazonaws.com/covid19/Current+and+Predicted+Deaths+Due+to+COVID19+in+NZ+-+scenario+3+02-04-2020.jpg)
 
 
-
-
 ## Economic Impacts
 
+The economic impacts of a prolonged national shutdown are likely to be catastrophic. The latest economic data from GDPLive.net which monitors the NZ economy in real-time, has picked up dramatic upward swings in spending leading up to the national shutdown, followed by an unprecedented slump as the economy ground to a halt. The data below depicts the consumer spending data which is represented as a percentage change in consumer spending for each day compared to the same period in the previous year.
 
-More to follow here...
+![COVID19](https://gdp-live.s3-ap-southeast-2.amazonaws.com/covid19/COVID-19+and+Consumer+Spending+in+NZ+02-04-2020.jpg)
+
+Although GDPLive.net models have picked up this downturn, the models have not started to adjust and estimate to what degree the economy is contracting. Given that consumption accounts for some two thirds of the NZ economy, a sustained shutdown in the economy will undoubtedly results in a double-digit contraction.
+
+More to follow ...
 
