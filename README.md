@@ -119,7 +119,10 @@ The economic impacts of a prolonged national shutdown are likely to be catastrop
 
 ![COVID19](https://gdp-live.s3-ap-southeast-2.amazonaws.com/covid19/COVID-19+and+Consumer+Spending+in+NZ+05-04-2020.jpg)
 
-Although GDPLive.net models have picked up this downturn, the models have not started to adjust and estimate to what degree the economy is contracting. Given that consumption accounts for some two thirds of the NZ economy, a sustained shutdown in the economy will undoubtedly results in a double-digit contraction.
+GDPLive.net models have now started to picked up this downturn. This can be seen in the quarterly percent change in the figure below. The economy is already in contraction at this stage, with the models detecting that there is already a 1.21% downturn resulting from the last week of the national shutdown.
+
+![COVID19](https://gdp-live.s3-ap-southeast-2.amazonaws.com/covid19/QuarterlyPercentChange05-04-2020.png)
+
 
 More to follow ...
 
