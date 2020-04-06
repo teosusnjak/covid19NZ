@@ -117,7 +117,7 @@ As of writing, NZ has had approximately 800 cases and one death due to COVID-19.
 
 The economic impacts of a prolonged national shutdown are likely to be catastrophic. The latest economic data from GDPLive.net which monitors the NZ economy in real-time, has picked up dramatic upward swings in spending leading up to the national shutdown, followed by an unprecedented slump as the economy ground to a halt. The data below depicts the consumer spending data which is represented as a percentage change in consumer spending for each day compared to the same period in the previous year.
 
-![COVID19](https://gdp-live.s3-ap-southeast-2.amazonaws.com/covid19/COVID-19+and+Consumer+Spending+in+NZ+06-04-2020.jpg)
+![COVID19](https://gdp-live.s3-ap-southeast-2.amazonaws.com/covid19/COVID-19+and+Consumer+Spending+in+NZ+05-04-2020.jpg)
 
 GDPLive.net models have now started to picked up this downturn. The average between the best-case and worst-case scenarios shows there we can expect around a 21% quarter-on-quarter contraction for Q2. The figure below highlights this. See GDPLive.net for more up-to-date graphs.
 
