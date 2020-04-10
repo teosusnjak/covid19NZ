@@ -119,10 +119,15 @@ The economic impacts of a prolonged national shutdown are likely to be catastrop
 
 ![COVID19](https://gdp-live.s3-ap-southeast-2.amazonaws.com/covid19/COVID-19+and+Consumer+Spending+in+NZ+05-04-2020.jpg)
 
-GDPLive.net models have now started to picked up this downturn. The average between the best-case and worst-case scenarios shows there we can expect around a 21% quarter-on-quarter contraction for Q2. The figure below highlights this. See GDPLive.net for more up-to-date graphs.
+GDPLive.net models have now started to picked up this downturn. The average between the best-case and worst-case scenarios shows there we can expect around a 21% quarter-on-quarter contraction for Q2. The figure below highlights this.
 
 ![COVID19](https://gdp-live.s3-ap-southeast-2.amazonaws.com/covid19/Current+Quarter+End+Percent+GDP+Change.png)
 
+Auckland represents over 30% of NZ's economic output. The forecasts are showing that after an estimated year-on-year 5.5% growth from March 2019 to March 2020, Auckland is now set for a contraction that is currently sitting at 5%, and is increasing each day of the shutdown. This will then have a spill-over effect onto other regions in NZ.
+
+![COVID19](https://gdp-live.s3-ap-southeast-2.amazonaws.com/covid19/Auckland-GDP.png)
+
+See GDPLive.net for more up-to-date graphs.
 
 More to follow ...
 
