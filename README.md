@@ -8,6 +8,16 @@ The underlying data analysed here is open sourced and comes from the Humanitaria
 
 New Zealand is at a relatively early stage of the COVID-19 outbreak. The purpose of this resource is to draw insights from the data as the crisis unfolds and to make inferences as to what this might mean for NZ. Initially, the goal is to track the speed at which this disease has spread in some of the most affected countries, and to model this on to the NZ context.
 
+# Table of Contents
+1. [Modelling the Spread](#modelling)
+    1. [Scenario 1](#scenario1)
+    2. [Scenario 2](#scenario2)
+    3. [Scenario 3 (currently most plausible)](#scenario3)
+    4. [Lockdown Policy Implications](#lockdownpolicy)
+2. [Death Rates - UK Case Study](#ukdeathrates)
+3. [Economic Impacts in NZ](#economicfalloutnz)
+
+
 # Speed of Spread
 
 One of the key concerns is the speed at which the disease is spreading. We have seen in NZ an exponential growth in confirmed cases that have led to extraordinary nation-wide measures to contain or slow down the spread. Are these high increases in daily rates of those confirmed to have the virus likely to persist, and if not, how quickly are these rates likely to reduce?
@@ -36,9 +46,9 @@ Given the trends from data on other countries which are ahead of NZ, it is possi
 
 ![COVID19](https://gdp-live.s3-ap-southeast-2.amazonaws.com/covid19/Mean+Daily+Percentage+Changes+in+Reported+COVID-19+Cases+across+Selected+Countries+and+NZ+16-04-2020.jpg)
 
-# Modeling the Spread
+# Modeling the Spread <a name="modelling"></a>
 
-## Scenario 1 (Aggregate Trends Across Selected Countries)
+## Scenario 1 (Aggregate Trends Across Selected Countries) <a name="scenario1"></a>
 
 If we were to assume that the rate of new confirmed COVID-19 cases in NZ will resemble the mean daily increases across the countries mentioned depicted in the above graphs, we could expect to see the trend in the graph below over the next four weeks.
 
@@ -59,7 +69,7 @@ Modeling these rates onto the forecasted COVID-19 cases in NZ, produces the grap
 ![COVID19](https://gdp-live.s3-ap-southeast-2.amazonaws.com/covid19/Hospitalisations+and+ICU+Requirements+Due+to+COVID-19+16-04-2020.jpg)
 
 
-## Scenario 2 (Singaporean Trends)
+## Scenario 2 (Singaporean Trends) <a name="scenario2"></a>
 
 The trends for NZ are beginning to diverge quite strongly from the mean rates of new confirmed COVID-19 cases from selected countries that were modeled in scenario 1. Recent trends (as of late March) in the rate of new confirmed COVID-19 cases in NZ have seen a significant downturn from earlier patterns. Although the earlier trends for NZ have been quite different to Singapore, by day 11, the rates of the two countries have converged as seen in the figure below.
 
@@ -85,7 +95,7 @@ The positive forecast models under scenario 2, also translate to hospitalisation
 
 
 
-## Scenario 3
+## Scenario 3 <a name="scenario3"></a>
 
 Applying patterns from other countries to NZ relies on my assumptions holding, which is unlikely. As of writing, NZ appears to be on its own trajectory on new daily infection rates, rates of hospitalisation as well as ICU needs. What is more, NZ has up to this point experienced relatively low death rates attributed to COVID-19.
 
@@ -114,7 +124,7 @@ As of writing, NZ has had approximately 800 cases and one death due to COVID-19.
 ![COVID19](https://gdp-live.s3-ap-southeast-2.amazonaws.com/covid19/Current+and+Predicted+Deaths+Due+to+COVID19+in+NZ+-+scenario+3+16-04-2020.jpg)
 
 
-## Lockdown Policy Implications (by [Rachel Owens](https://www.linkedin.com/in/rachel-owens-94b544129/) )
+## Lockdown Policy Implications (by [Rachel Owens](https://www.linkedin.com/in/rachel-owens-94b544129/) ) <a name="lockdownpolicy"></a>
 
 > On the eve of the 26 March move to Alert Level Four, New Zealand's Director-General of Health, Ashley Bloomfield, predicted that COVID-19 cases would rise for ten days before a turnaround, and this is what we are seeing here.  During lockdown, active COVID-19 cases in New Zealand took around 12 days to peak and have dropped steadily ever since, due to recoveries and a decreasing rate of new infections.  We can safely assume that strict social distancing and border controls have afforded this turnaround.
 
@@ -125,7 +135,7 @@ As of writing, NZ has had approximately 800 cases and one death due to COVID-19.
 
 
 
-### Death Rates - UK Case Study
+# Death Rates - UK Case Study <a name="ukdeathrates"></a>
 
 The United Kingdom produces statistics on deaths, which are coded by cause with remarkable speed which is as close to real-time reporting that one can achieve for this type of data. The Office for National Statistics produces these figures for England and Wales with a lag of approximately two weeks and releases them here: https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/bulletins/deathsregisteredweeklyinenglandandwalesprovisional/weekending27march2020
 
@@ -157,7 +167,7 @@ Finally, the cumulative number of deaths for 2020 versus those of the last five 
 
 
 
-## Economic Impacts in NZ
+# Economic Impacts in NZ <a name="economicfalloutnz"></a>
 
 The economic impacts of a prolonged national shutdown in NZ are likely to be catastrophic. The latest economic data from GDPLive.net which monitors the NZ economy in real-time, has picked up dramatic upward swings in spending leading up to the national shutdown, followed by an unprecedented slump as the economy ground to a halt. The data below depicts the consumer spending data which is represented as a percentage change in consumer spending for each day compared to the same period in the previous year.
 
