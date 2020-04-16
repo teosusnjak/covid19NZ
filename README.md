@@ -95,7 +95,7 @@ The graph below shows the forecasted new daily confirmed COVID-19 cases. The mod
 
 ![COVID19](https://gdp-live.s3-ap-southeast-2.amazonaws.com/covid19/Current+and+Predicted+New+Confirmed+COVID-19+Cases+in+NZ+-+scenario+3+16-04-2020.jpg)
 
-The number in the previous graph translate to total expected COVID-19 cases across NZ. As in the previous graph, this figure will also adjust over the coming days to the new infection rate data which captures the effects of social isolation currently in force in NZ.
+The numbers in the previous graph translate to total expected COVID-19 cases across NZ. As in the previous graph, this figure will also adjust over the coming days to the new infection rate data which captures the effects of social isolation currently in force in NZ.
 
 ![COVID19](https://gdp-live.s3-ap-southeast-2.amazonaws.com/covid19/Current+and+Predicted+Total+Confirmed+COVID-19+Cases+in+NZ+-+scenario+3+16-04-2020.jpg)
 
@@ -112,6 +112,18 @@ As of writing, NZ has had approximately 800 cases and one death due to COVID-19.
 
 
 ![COVID19](https://gdp-live.s3-ap-southeast-2.amazonaws.com/covid19/Current+and+Predicted+Deaths+Due+to+COVID19+in+NZ+-+scenario+3+16-04-2020.jpg)
+
+
+## Lockdown Policy Implications (by Rachel Owens)
+
+> On the eve of the 26 March move to Alert Level Four, New Zealand's Director-General of Health, Ashley Bloomfield, predicted that COVID-19 cases would rise for ten days before a turnaround, and this is what we are seeing here.  During lockdown, active COVID-19 cases in New Zealand took around 12 days to peak and have dropped steadily ever since, due to recoveries and a decreasing rate of new infections.  We can safely assume that strict social distancing and border controls have afforded this turnaround.
+
+> We should bear in mind that any apparent trend in the reduction of active cases evident in this plot below, may be susceptible to changes in social distancing behaviour. Next Monday, the Government will announce whether New Zealand is poised to move to Alert Level Three.  On Thursday 16 April the Prime Minister, Jacinda Ardern, outlined in further detail what Alert Level Three would look like - a looser form of social distancing where the criteria around permitted economic and social activity are widened. Given the border controls, and assuming all COVID-19 cases are known and managed, we should not see any change in the trend.  However, should there be silent cases in the community, we may see the active cases increase again.
+
+![COVID19](https://gdp-live.s3-ap-southeast-2.amazonaws.com/covid19/20200416_CovidNZ.jpeg)
+
+
+
 
 ### Death Rates - UK Case Study
 
