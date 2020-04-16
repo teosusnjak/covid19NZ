@@ -114,7 +114,7 @@ As of writing, NZ has had approximately 800 cases and one death due to COVID-19.
 ![COVID19](https://gdp-live.s3-ap-southeast-2.amazonaws.com/covid19/Current+and+Predicted+Deaths+Due+to+COVID19+in+NZ+-+scenario+3+16-04-2020.jpg)
 
 
-## Lockdown Policy Implications (by Rachel Owens)
+## Lockdown Policy Implications (by [Rachel Owens](https://www.linkedin.com/in/rachel-owens-94b544129/) )
 
 > On the eve of the 26 March move to Alert Level Four, New Zealand's Director-General of Health, Ashley Bloomfield, predicted that COVID-19 cases would rise for ten days before a turnaround, and this is what we are seeing here.  During lockdown, active COVID-19 cases in New Zealand took around 12 days to peak and have dropped steadily ever since, due to recoveries and a decreasing rate of new infections.  We can safely assume that strict social distancing and border controls have afforded this turnaround.
 
