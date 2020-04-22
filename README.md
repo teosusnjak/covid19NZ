@@ -181,27 +181,27 @@ The digression to the UK context at this point is useful and instructive for a c
 
 The data in the first graph below shows the total number of respiratory-related deaths registered per week in England and Wales for this year, compared to the average of the five years prior. The deaths capture influenza and pneumonia-related fatalities, as well as COVID-19. COVID-19 begins to show up in the graph from week 12 onwards representing the period of around March 20, while week ending April 3 shows a sharp spike in COVID-19 deaths. For the most of this year, deaths caused by respiratory-related illnesses have been lower than in previous years. Looking ahead for the next few weeks, as the recording of COVID-19 caused fatalities increases, it will be interesting to see if the reporting of deaths attributed to influenza and other respiratory-related diseases decreases.
 
-![COVID19](https://gdp-live.s3-ap-southeast-2.amazonaws.com/covid19/Number+of+COVID-19+Influenza++Pneumonia-related+deaths+registered+by+week+in+England+and+Wales+15-04-2020.jpg)
+![COVID19](https://gdp-live.s3-ap-southeast-2.amazonaws.com/covid19/Number+of+COVID-19+Influenza++Pneumonia-related+deaths+registered+by+week+in+England+and+Wales+22-04-2020.jpg)
 
 The totals for respiratory-related deaths are visualised as a cumulative sum in the figure below. As of week 13, approx. 5000 fewer death overall  have been recorded in 2020 due to respiratory-related and COVID-19 deaths, compared to the average of the last 5 years. From week 14, we see the gap rapidly closing as COVID-19 begins to take a greater toll.
 
-![COVID19](https://gdp-live.s3-ap-southeast-2.amazonaws.com/covid19/Cumulative+Number+of+COVID-19+Influenza++Pneumonia-related+deaths+registered+by+week+in+England+and+Wales+15-04-2020.jpg)
+![COVID19](https://gdp-live.s3-ap-southeast-2.amazonaws.com/covid19/Cumulative+Number+of+COVID-19+Influenza++Pneumonia-related+deaths+registered+by+week+in+England+and+Wales+22-04-2020.jpg)
 
 The following figure highlights the difference between the two lines in the graph above. We see that by week 12, almost 6000 fewer death occurred in Wales and England which cited respiratory-related causes compared to previous years. This trend is now coming to an end as the spike in COVID-19 related deaths begins to make an impact on the overall numbers for 2020.
 
-![COVID19](https://gdp-live.s3-ap-southeast-2.amazonaws.com/covid19/Difference+in+Cumulative+Number+of+COVID-19+Influenza++Pneumonia-related+deaths+registered+by+week+in+England+and+Wales+15-04-2020.jpg)
+![COVID19](https://gdp-live.s3-ap-southeast-2.amazonaws.com/covid19/Difference+in+Cumulative+Number+of+COVID-19+Influenza++Pneumonia-related+deaths+registered+by+week+in+England+and+Wales+22-04-2020.jpg)
 
 Once the fallout of the outbreak becomes clearer in the data over the course of months, it will become more apparent what the cost to human lives has been. The severity of this outbreak should register in the total number of deaths registered in 2020 compared to previous years. The graph below shows the number of deaths registered each week in England and Wales for 2020, compared to the average of the last 5 years. For most of 2020, fewer deaths have been reported compared to previous years' average.
 
-![COVID19](https://gdp-live.s3-ap-southeast-2.amazonaws.com/covid19/Number+of+deaths+registered+by+week+in+England+and+Wales+15-04-2020.jpg)
+![COVID19](https://gdp-live.s3-ap-southeast-2.amazonaws.com/covid19/Number+of+deaths+registered+by+week+in+England+and+Wales+22-04-2020.jpg)
 
 The next graph converts the above data and depicts it as differences in the number of weekly deaths between 2020 and the average of the last 5 years.We see here once again, that fewer weekly deaths have generally been registered for 2020 so far. All things being equal, the severity of COVID-19 related deaths should begin to register on this graph in the following weeks. However, there are additional factors that cannot be accounted for which will likely have an effect on the overall mortality numbers such as fewer road traffic deaths due to the lockdown and possibly more deaths due to treatable illnesses arising from stresses on the National Health Service from COVID-19.
 
-![COVID19](https://gdp-live.s3-ap-southeast-2.amazonaws.com/covid19/Difference+in+Number+of+deaths+registered+by+week+in+England+and+Wales+15-04-2020.jpg )
+![COVID19](https://gdp-live.s3-ap-southeast-2.amazonaws.com/covid19/Difference+in+Number+of+deaths+registered+by+week+in+England+and+Wales+22-04-2020.jpg )
 
 Finally, the cumulative number of deaths for 2020 versus those of the last five year are plotted below showing again that fewer deaths have so far occurred in England and Wales up to the end of March. We can once again expect this graph to change in response to the severity of COVID-19 over the coming weeks and months. In the last week, the total number of deaths for this year is now for the first time higher than the average of the last five years for the same period.
 
-![COVID19](https://gdp-live.s3-ap-southeast-2.amazonaws.com/covid19/Cumulative+Number+of+deaths+registered+by+week+in+England+and+Wales+15-04-2020.jpg)
+![COVID19](https://gdp-live.s3-ap-southeast-2.amazonaws.com/covid19/Cumulative+Number+of+deaths+registered+by+week+in+England+and+Wales+22-04-2020.jpg)
 
 
 
