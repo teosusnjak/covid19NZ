@@ -223,6 +223,9 @@ Most industry sectors are expected to take a heavy hit from the fallout of the l
 
 ![COVID19](https://gdp-live.s3-ap-southeast-2.amazonaws.com/covid19/Economic+activity+for+the+Rental%2C+Hiring%2C+and+Real-estate+Services+Sector+based+on+consumption+data+comparison+to+previous+year.jpg)
 
+Likewise, the graph below shows the chronology of the decline of the Transport, Postal and Warehousing Sector. GDPlive is predicting that the annual percent change for Q2 for this sector is currently contracting at 9%.
+
+![COVID19](https://gdp-live.s3-ap-southeast-2.amazonaws.com/covid19/Economic+activity+for+the+Transport%2C+Postal%2C+and+Warehousing+Sector+based+on+consumption+data+comparison+to+previous+year.jpg)
 
 
 See GDPLive.net for more up-to-date graphs.
