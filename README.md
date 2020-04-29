@@ -270,6 +270,10 @@ Likewise, the graph below shows the chronology of the decline of the Transport, 
 
 ![COVID19](https://gdp-live.s3-ap-southeast-2.amazonaws.com/covid19/Economic+activity+for+the+Transport%2C+Postal%2C+and+Warehousing+Sector+based+on+consumption+data+comparison+to+previous+year.jpg)
 
+Level 3 Alert has recently come into effect in NZ and with it, some loosening of the lockdown measures have come into effect. The Retail, Trade and Accommodation sector has been particularly hit hard during the lockdown period. The graph below chronicles the events leading up to the Level 4 shutdown as well as the heavily reduced economic activity within this sector throughout the duration of the Level 4 alert level. The road to recovery for businesses in this sector will be a long one.
+
+![COVID19](https://gdp-live.s3-ap-southeast-2.amazonaws.com/covid19/Economic+activity+for+the+Retail+Trade+and+Accommodation+sector+based+on+consumption+data+comparison+to+previous+year.jpg)
+
 
 See GDPLive.net for more up-to-date graphs.
 
