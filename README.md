@@ -1,5 +1,5 @@
 
-# Latest COVID-19 Data updates (01-05-2020) : Current Trends and Forecasts
+# Latest COVID-19 Data updates (03-05-2020) : Current Trends and Forecasts
 
 
 # Introduction
@@ -26,25 +26,25 @@ The data shows that the speed of the spread in terms of what the percent of new 
 
 Below is a figure which shows how many days a selection of countries have been dealing with this disease since they recorded a 40th confirmed COVID-19 case. The chosen countries are some of the hardest hit, and offer most insights in terms of highlighting trends. These countries are China, Spain, Italy, Iran, France, Germany, United Kingdom, South Korea, US, Australia, Sweden, Belgium, Turkey and Singapore. The graph sets 40 as the threshold, since the daily changes in percentages of new confirmed cases stabilises after this point.
 
-![COVID19_length_of_outbreaks](https://gdp-live.s3-ap-southeast-2.amazonaws.com/covid19/Stage+of+the+COVID-19+Outbreak++Across+Selected+Countries+01-05-2020.jpg)
+![COVID19_length_of_outbreaks](https://gdp-live.s3-ap-southeast-2.amazonaws.com/covid19/Stage+of+the+COVID-19+Outbreak++Across+Selected+Countries+03-05-2020.jpg)
 
 Relatively speaking, NZ is at an early stage of combating the outbreak. Trends from other countries which are further down the road, can illustrate what NZ could also expect in the near future and could also serve as examples to learn from.
 
 The following figure plots the actual percentage change of new confirmed COVID-19 cases from one day to the next for all of the countries above. The rates for each country are smoothed using a rolling seven day mean.
 
-![COVID19_global_spread](https://gdp-live.s3-ap-southeast-2.amazonaws.com/covid19/Daily+Percentage+Changes+in+Reported+COVID-19+Cases+in+Selected+Countries+01-05-2020.jpg)
+![COVID19_global_spread](https://gdp-live.s3-ap-southeast-2.amazonaws.com/covid19/Daily+Percentage+Changes+in+Reported+COVID-19+Cases+in+Selected+Countries+03-05-2020.jpg)
 
 As time progresses, the graph shows a general slowdown in daily rates, though countries have, and are achieving this with different degrees of success. The most successful, such as China and South Korea, have managed to reduce the transmission rates to near zero, by day 30. Singapore succeeded in lowering the transmission rates earlier, but has recently started experiencing an increase. Other countries are exhibiting rates that are in high teens, or in the case of USA, high thirties for the same point in time.
 
 Using the above approach, NZ experienced its Day 1 on March 20. The smoothed daily rates of change of confirmed COVID-19 cases for NZ can be seen in the graph below in black.
 
-![COVID19](https://gdp-live.s3-ap-southeast-2.amazonaws.com/covid19/Daily+Percentage+Changes+in+Reported+COVID-19+Cases+in+Selected+Countries+and+NZ+01-05-2020.jpg)
+![COVID19](https://gdp-live.s3-ap-southeast-2.amazonaws.com/covid19/Daily+Percentage+Changes+in+Reported+COVID-19+Cases+in+Selected+Countries+and+NZ+03-05-2020.jpg)
 
 The high reported daily rates of confirmed COVID-19 cases for NZ are not out of step with what other countries have been experiencing at the same point in time. NZ went into a full national shutdown from midnight 25 March. The effects of this mandatory national isolation should become visible in the data between days 10 and 20 due to the incubation and testing time lags. It will be interesting to monitor the trends to see if NZ follows the rates observed in South Korea and Singapore.
 
 Given the trends from data on other countries which are ahead of NZ, it is possible to apply them to NZ and to simulate what the overall numbers in new confirmed COVID-19 cases might look like over the next 4 weeks. One simplistic approach is to aggregate the daily rates of newly confirmed COVID-19 cases across the countries in the above graphs, and to apply this to NZ. The figure below show the mean rate of daily confirmed COVID-19 cases across these countries, together with that of NZ. The figure depicts both the 7-day rolling mean as well as the actual daily percentages for NZ.
 
-![COVID19](https://gdp-live.s3-ap-southeast-2.amazonaws.com/covid19/Mean+Daily+Percentage+Changes+in+Reported+COVID-19+Cases+across+Selected+Countries+and+NZ+01-05-2020.jpg)
+![COVID19](https://gdp-live.s3-ap-southeast-2.amazonaws.com/covid19/Mean+Daily+Percentage+Changes+in+Reported+COVID-19+Cases+across+Selected+Countries+and+NZ+03-05-2020.jpg)
 
 # Modeling the Spread <a name="modelling"></a>
 
@@ -52,13 +52,13 @@ Given the trends from data on other countries which are ahead of NZ, it is possi
 
 If we were to assume that the rate of new confirmed COVID-19 cases in NZ will resemble the mean daily increases across the countries mentioned depicted in the above graphs, we could expect to see the trend in the graph below over the next four weeks.
 
-![COVID19](https://gdp-live.s3-ap-southeast-2.amazonaws.com/covid19/Current+and+Predicted+New+Confirmed+COVID-19+Cases+in+NZ+01-05-2020.jpg)
+![COVID19](https://gdp-live.s3-ap-southeast-2.amazonaws.com/covid19/Current+and+Predicted+New+Confirmed+COVID-19+Cases+in+NZ+03-05-2020.jpg)
 
 The graph shows a possible rapid increase in the number of new confirmed cases starting in two weeks time, with a slowdown occurring by week four. This model is based on the assumption that the trends in NZ will resemble other countries who were at same stages of the outbreak. However, the above model does not take into account the fact that NZ is now in a full lock-down and how this might diverge from trends exhibited by other countries, who did not enforce national lock-downs at such early stages.
 
 If we sum up all the the new daily confirmed COVID-19 cases in NZ, we can see how this translates to the forecasted total number of cases over the next four week in the graph below.
 
-![COVID19](https://gdp-live.s3-ap-southeast-2.amazonaws.com/covid19/Current+and+Predicted+Total+Confirmed+COVID-19+Cases+in+NZ+01-05-2020.jpg)
+![COVID19](https://gdp-live.s3-ap-southeast-2.amazonaws.com/covid19/Current+and+Predicted+Total+Confirmed+COVID-19+Cases+in+NZ+03-05-2020.jpg)
 
 ### Hospitalisations and Intensive Care (under Scenario 1)
 
@@ -66,24 +66,24 @@ It is difficult to estimate exactly what the hospitalisation rates are for COVID
 
 Modeling these rates onto the forecasted COVID-19 cases in NZ, produces the graph below. The graph illustrates the current national inventory of ICUs which has been boosted to 563. This number includes beds and units that are currently being converted to be able to support severe COVID-19 patients.
 
-![COVID19](https://gdp-live.s3-ap-southeast-2.amazonaws.com/covid19/Hospitalisations+and+ICU+Requirements+Due+to+COVID-19+01-05-2020.jpg)
+![COVID19](https://gdp-live.s3-ap-southeast-2.amazonaws.com/covid19/Hospitalisations+and+ICU+Requirements+Due+to+COVID-19+03-05-2020.jpg)
 
 
 ## Scenario 2 (Singaporean Trends) <a name="scenario2"></a>
 
 The trends for NZ are beginning to diverge quite strongly from the mean rates of new confirmed COVID-19 cases from selected countries that were modeled in scenario 1. Recent trends (as of late March) in the rate of new confirmed COVID-19 cases in NZ have seen a significant downturn from earlier patterns. Although the earlier trends for NZ have been quite different to Singapore, by day 11, the rates of the two countries have converged as seen in the figure below.
 
-![COVID19](https://gdp-live.s3-ap-southeast-2.amazonaws.com/covid19/Percentage+Change+in+Reported+COVID-19+Cases+Comparing+NZ+and+Singapore+01-05-2020.jpg)
+![COVID19](https://gdp-live.s3-ap-southeast-2.amazonaws.com/covid19/Percentage+Change+in+Reported+COVID-19+Cases+Comparing+NZ+and+Singapore+03-05-2020.jpg)
 
 The rate of new cases for Singapore presents a very optimistic possible scenario for NZ. The next set of graphs seek to simulate what might be in store for NZ if Singapore's trends were to be realised here.
 
 The graph below shows the number of new daily confirmed COVID-19 cases that are forecasted if Singapore's experience holds within the NZ context. At the same stage of the outbreak as we find ourselves now, Singapore observed a slowdown in new confirmed cases over the next two weeks with a subsequent increase from week 3.
 
-![COVID19](https://gdp-live.s3-ap-southeast-2.amazonaws.com/covid19/Current+and+Predicted+New+Confirmed+COVID-19+Cases+in+NZ+-+scenario+2+01-05-2020.jpg)
+![COVID19](https://gdp-live.s3-ap-southeast-2.amazonaws.com/covid19/Current+and+Predicted+New+Confirmed+COVID-19+Cases+in+NZ+-+scenario+2+03-05-2020.jpg)
 
 By summing up all the new daily confirmed COVID-19 cases in NZ, we can see the total number of predicted cases over the next four weeks in the graph below.
 
-![COVID19](https://gdp-live.s3-ap-southeast-2.amazonaws.com/covid19/Current+and+Predicted+Total+Confirmed+COVID-19+Cases+in+NZ+-+scenario+2+01-05-2020.jpg)
+![COVID19](https://gdp-live.s3-ap-southeast-2.amazonaws.com/covid19/Current+and+Predicted+Total+Confirmed+COVID-19+Cases+in+NZ+-+scenario+2+03-05-2020.jpg)
 
 The forecasts under scenario 2 stand in stark contrast to those of scenario 1 and illustrate a much more positive outlook.
 
@@ -91,7 +91,7 @@ The forecasts under scenario 2 stand in stark contrast to those of scenario 1 an
 
 The positive forecast models under scenario 2, also translate to hospitalisation rates and ICU needs for the next month that are well within the capacity of the NZ health system. The figure below illustrates these possible outcomes.
 
-![COVID19](https://gdp-live.s3-ap-southeast-2.amazonaws.com/covid19/Hospitalisations+and+ICU+Requirements+Due+to+COVID-19+-+scenario+2+01-05-2020.jpg)
+![COVID19](https://gdp-live.s3-ap-southeast-2.amazonaws.com/covid19/Hospitalisations+and+ICU+Requirements+Due+to+COVID-19+-+scenario+2+03-05-2020.jpg)
 
 
 
@@ -103,15 +103,15 @@ This final scenario considers only NZ trends, and applies them to the next four 
 
 The graph below shows the forecasted new daily confirmed COVID-19 cases. The models still predict a very high number of daily cases that accelerate by week four; however, as more data comes in over the next couple of weeks which shows the effects of the national shutdown, these overall numbers will attenuate and correct over time.
 
-![COVID19](https://gdp-live.s3-ap-southeast-2.amazonaws.com/covid19/Current+and+Predicted+New+Confirmed+COVID-19+Cases+in+NZ+-+scenario+3+01-05-2020.jpg)
+![COVID19](https://gdp-live.s3-ap-southeast-2.amazonaws.com/covid19/Current+and+Predicted+New+Confirmed+COVID-19+Cases+in+NZ+-+scenario+3+03-05-2020.jpg)
 
 The numbers in the previous graph translate to total expected COVID-19 cases across NZ. As in the previous graph, this figure will also adjust over the coming days to the new infection rate data which captures the effects of social isolation currently in force in NZ.
 
-![COVID19](https://gdp-live.s3-ap-southeast-2.amazonaws.com/covid19/Current+and+Predicted+Total+Confirmed+COVID-19+Cases+in+NZ+-+scenario+3+01-05-2020.jpg)
+![COVID19](https://gdp-live.s3-ap-southeast-2.amazonaws.com/covid19/Current+and+Predicted+Total+Confirmed+COVID-19+Cases+in+NZ+-+scenario+3+03-05-2020.jpg)
 
 The most optimistic forecasts are captures in the following two graphs. Other countries have reported hospitalisation rates that are ~10% of confirmed cases, ICU rates that are ~25% of those who are hospitalised. While NZ is still at relatively early stages of the outbreak, these rates have not held up to the local context. The hospitalisation rate for NZ has been ~2% and this has translated also to very low overall number of patients requiring ICU care. The figure below highlights the trends up to today, as well as forecasts over the next month. If the hospitalisation rates continue to hold, then the health system as well as the NZ UCU capacity is well placed to manage the potential demand in the near future.
 
-![COVID19](https://gdp-live.s3-ap-southeast-2.amazonaws.com/covid19/Hospitalisations+and+ICU+Requirements+Due+to+COVID-19+-+scenario+3+01-05-2020.jpg)
+![COVID19](https://gdp-live.s3-ap-southeast-2.amazonaws.com/covid19/Hospitalisations+and+ICU+Requirements+Due+to+COVID-19+-+scenario+3+03-05-2020.jpg)
 
 ## Estimating Fatality Rates
 
@@ -121,17 +121,17 @@ Ascertaining the exact fatality rates caused by COVID-19 is difficult. There is 
 As of writing, NZ has had approximately 800 cases and one death due to COVID-19. This thankfully represents a very low fatality rate of ~0.13%, but unfortunately a rate which is likely to increase with time. The graph below represents a scenario of what would happen to the death rate over the next four weeks if the average death rate over the previous seven days holds.
 
 
-![COVID19](https://gdp-live.s3-ap-southeast-2.amazonaws.com/covid19/Current+and+Predicted+Deaths+Due+to+COVID19+in+NZ+-+scenario+3+01-05-2020.jpg)
+![COVID19](https://gdp-live.s3-ap-southeast-2.amazonaws.com/covid19/Current+and+Predicted+Deaths+Due+to+COVID19+in+NZ+-+scenario+3+03-05-2020.jpg)
 
 
 ## Lockdown Policy Implications (by [Rachel Owens](https://www.linkedin.com/in/rachel-owens-94b544129/) ) <a name="lockdownpolicy"></a>
-### 1 May 2020
+### 3 May 2020
 
 On the eve of the 26 March move to alert level four (commonly referred to as ‘lockdown’), New Zealand’s Director-General of Health, Ashley Bloomfield, predicted that COVID-19 cases would rise for ten days before a turnaround, and this is what we are seeing here. During lockdown, active COVID-19 cases in New Zealand took around 12 days to peak and have dropped steadily ever since, due to recoveries and a decreasing rate of new infections. We can safely assume that strict social distancing and border controls have afforded this turnaround.
 
 We should bear in mind that any apparent trend in the reduction of active cases evident in this plot below, may be susceptible to changes in social distancing behaviour. On Monday 20 April, the Government announced that NZ would move to alert level three on Tuesday April 28 and stay there for a minimum of two weeks. On Thursday 16 April the Prime Minister, Jacinda Ardern, outlined in further detail what alert level three would look like - a looser form of social distancing where the criteria around permitted economic and social activity are widened. Given the border controls, and assuming all COVID-19 cases are known and managed, we should not see any change in the trend. However, should there be silent cases in the community, or a break of isolation by active cases, we may see the active cases increase again.
 
-![COVID19](https://gdp-live.s3-ap-southeast-2.amazonaws.com/covid19/20200501_CovidNZ.jpeg)
+![COVID19](https://gdp-live.s3-ap-southeast-2.amazonaws.com/covid19/20200503_CovidNZ.jpeg)
 
 ### Looking ahead
 
@@ -146,7 +146,7 @@ If elimination* is the Government’s goal, then further weeks of high levels of
 * *Elimination is not to be confused with eradication. Elimination requires that the virus is no longer circulating in the community. Under such a scenario, occasional flare-ups could still happen (think measles). Eradication is when the virus gone completely, around the globe.*
 
 
-![COVID19](https://gdp-live.s3-ap-southeast-2.amazonaws.com/covid19/20200501_CovidNZLookingAhead.jpeg)
+![COVID19](https://gdp-live.s3-ap-southeast-2.amazonaws.com/covid19/20200503_CovidNZLookingAhead.jpeg)
 
 ### Counterfactual - no lockdown
 
@@ -154,9 +154,9 @@ What if lockdown didn’t happen? The decrease in NZ’s active COVID-19 cases 1
 
 This chart explores that scenario. The model I chose for predicting case numbers is very conservative. In fact, a model that predicted more than twice as many infections is even closer to the actual data. Why choose a ‘lesser’ model? There are many reasons, but mainly, the point I want to make here is still made in the conservative case, just in a less dramatic way: that in an alternative scenario, recoveries don’t overtake new infections and we have ever-escalating active cases. As it actually happened we saw that ‘flattened curve’ we were promised.
 
-![COVID19](https://gdp-live.s3-ap-southeast-2.amazonaws.com/covid19/20200501_CovidNZCounterFactual.jpeg)
+![COVID19](https://gdp-live.s3-ap-southeast-2.amazonaws.com/covid19/20200503_CovidNZCounterFactual.jpeg)
 
-![COVID19](https://gdp-live.s3-ap-southeast-2.amazonaws.com/covid19/20200501_CovidNZCounterFactual_b.jpeg)
+![COVID19](https://gdp-live.s3-ap-southeast-2.amazonaws.com/covid19/20200503_CovidNZCounterFactual_b.jpeg)
 
 ### Origin of infection - Overseas/Domestic
 
@@ -168,17 +168,17 @@ Perhaps counter-intuitively, we eventually want that line to shoot all the way u
 
 See that little wiggle after quarantine was introduced? That could simply be a quirk of total new infections dropping to a small number, but it could also be a good sign.
 
-![COVID19](https://gdp-live.s3-ap-southeast-2.amazonaws.com/covid19/20200501_CovidNZInfectionOrigin.jpeg)
+![COVID19](https://gdp-live.s3-ap-southeast-2.amazonaws.com/covid19/20200503_CovidNZInfectionOrigin.jpeg)
 
 Below you can see the total count of new infections across three categories of origin: Overseas, Domestic and Unknown.
 
-![COVID19](https://gdp-live.s3-ap-southeast-2.amazonaws.com/covid19/20200501_CovidNZInfectionOrigin_b.jpeg)
+![COVID19](https://gdp-live.s3-ap-southeast-2.amazonaws.com/covid19/20200503_CovidNZInfectionOrigin_b.jpeg)
 
 ### Infections by District Health Board
 
 The Southern District Health Board has seen a disproportionate number of infections. This is perhaps partly due to the effect of clusters of infection, combined with a relatively low infection rate overall in NZ. Had NZ not introduced border controls and lockdown, and had the virus been given more opportunity to circulate, we would likely see a more even distribution of clusters, community transmission, and more equal infection rates across regions. It is also likely relevant that the Southern DHB encompasses some of NZ’s more popular tourism spots..
 
-![COVID19](https://gdp-live.s3-ap-southeast-2.amazonaws.com/covid19/20200501_CovidNZInfectionDHB_a.jpeg)
+![COVID19](https://gdp-live.s3-ap-southeast-2.amazonaws.com/covid19/20200503_CovidNZInfectionDHB_a.jpeg)
 
 Someone has suggested it would be better to visualise this data by geographical source of infection rather than DHB. That sounds like a good idea, but I don’t have access to that data. The current cases list put out by the Ministry of Health has details about the DHB a confirmed or probable case is in, whether they had travelled overseas and if so, the country a person returned from.
 
@@ -192,9 +192,9 @@ You can see here that the scales are quite different - the origin of infections 
 
 It is quite interesting to see that Nelson Marlborough has a relatively high number of infections relating to overseas travel.
 
-![COVID19](https://gdp-live.s3-ap-southeast-2.amazonaws.com/covid19/20200501_CovidNZInfectionDHB_b.jpeg)
+![COVID19](https://gdp-live.s3-ap-southeast-2.amazonaws.com/covid19/20200503_CovidNZInfectionDHB_b.jpeg)
 
-![COVID19](https://gdp-live.s3-ap-southeast-2.amazonaws.com/covid19/20200501_CovidNZInfectionDHB_c.jpeg)
+![COVID19](https://gdp-live.s3-ap-southeast-2.amazonaws.com/covid19/20200503_CovidNZInfectionDHB_c.jpeg)
 
 ### Infections by last country before returned
 
@@ -213,7 +213,7 @@ Why?
 - The data will also likely reflect the way NZers travel, rather than how the virus has spread. Australia is not a virus hotspot, but there is a lot of traffic across the ditch.
 
 
-![COVID19](https://gdp-live.s3-ap-southeast-2.amazonaws.com/covid19/20200501_CovidNZInfectionDHB_by_last_country_prior_to_entry.jpeg)
+![COVID19](https://gdp-live.s3-ap-southeast-2.amazonaws.com/covid19/20200503_CovidNZInfectionDHB_by_last_country_prior_to_entry.jpeg)
 
 
 # Death Rates - UK Case Study <a name="ukdeathrates"></a>
